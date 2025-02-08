@@ -26,3 +26,7 @@ localhost:3000/api/v2/seed
 ## Stack usado
 * MongoDB
 * NestJs
+
+Para contribuir, simplemente realiza un fork del repositorio y envía un pull request con tus cambios. También puedes abrir un issue si deseas discutir mejoras antes de implementarlas.
+
+¡Gracias por tu ayuda para mejorar esta guía! 🚀
